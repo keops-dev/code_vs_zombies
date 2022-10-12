@@ -1,0 +1,15 @@
+{
+    "name": "code_vs_zombies",
+    "version": "1.0.0",
+    "description": "My solution for the Codingame's puzzle Code vs Zombies",
+    "main": "src/index.ts",
+    "scripts": {
+        "start": "tsc src/index.ts",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Keops",
+    "license": "ISC",
+    "dependencies": {
+        "typescript": "^4.8.4"
+    }
+}
